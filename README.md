@@ -1,2 +1,2 @@
 An lattice-Boltzman simulation in CUDA.
-![alt tag](http://github.com/kzawisto/LatticeBoltzman/img.png)
+![alt tag](https://github.com/kzawisto/LatticeBoltzman/master/img.png)
